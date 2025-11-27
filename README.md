@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<title>Estrutura do Projeto – Capacitação SENAC</title>
-<style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        line-height: 1.6;
-        max-width: 900px;
-        margin: auto;
-        padding: 20px;
-        background: #f7f7f7;
-        color: #333;
-    }
-    h1, h2, h3 {
-        color: #222;
-    }
-    .folder {
-        background: #fff;
-        padding: 15px;
-        border-radius: 8px;
-        margin-bottom: 12px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-    }
-    code {
-        background: #eee;
-        padding: 3px 6px;
-        border-radius: 5px;
-        font-size: 0.9em;
-    }
-</style>
-</head>
-<body>
-
 <h1>📁 Estrutura Base de Projeto – Capacitação SENAC</h1>
 
 <p>
